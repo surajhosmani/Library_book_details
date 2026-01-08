@@ -10,9 +10,9 @@ def test_format_book_details():
 
     expected_output = (
         "Book ID: 101\n"
-        "Book Title: Python Programming\n"
-        "Author Name: Guido van Rossum\n"
-        "Year of Publication: 2020"
+        "Book Title: Ramayana\n"
+        "Author Name: Bhimanagouda\n"
+        "Year of Publication: 2006"
     )
 
     assert result == expected_output
